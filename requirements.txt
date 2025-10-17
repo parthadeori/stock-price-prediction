@@ -1,16 +1,17 @@
 # Core
-streamlit==1.29.0
-pandas==2.1.1
-numpy==1.26.2
+streamlit
+pandas
+numpy
 
 # Data fetching
-yfinance==0.2.27
+yfinance
 
 # Machine learning
-scikit-learn==1.3.0
+scikit-learn
 
 # Visualization
-plotly==5.15.0
+plotly
 
 # Optional (for styling dark/light mode, if using custom CSS)
 # No extra library needed
+
