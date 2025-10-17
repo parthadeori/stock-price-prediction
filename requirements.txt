@@ -2,6 +2,7 @@
 streamlit
 pandas
 numpy
+matplotlib
 
 # Data fetching
 yfinance
@@ -14,4 +15,5 @@ plotly
 
 # Optional (for styling dark/light mode, if using custom CSS)
 # No extra library needed
+
 
